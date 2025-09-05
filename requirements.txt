@@ -1,0 +1,6 @@
+pydantic>=2.7
+networkx>=3.2
+openai>=1.40
+json-repair>=0.24
+python-dotenv>=1.0
+pytest>=8.0
