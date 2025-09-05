@@ -15,7 +15,7 @@ Key points:
 • Demonstrates how agents work under the hood, not just how to use them.
 • Compatible with local models (e.g., LM Studio) or OpenAI-style APIs.
 
-## Quickstart (from zero to hero)
+## Quickstart
 
 1. Clone
 
