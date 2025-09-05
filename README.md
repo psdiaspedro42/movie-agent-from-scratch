@@ -1,4 +1,4 @@
-# Movie-Agent-Minimal-LLM-Powered-Agent-Without-LangChain-LangGraph
+# movie-agent-from-scratch
 
 This small project is a study exercise in building an AI agent from scratch, without relying on external frameworks like LangChain or LangGraph.
 The goal is to understand and implement the core components of an agent—routing, decision graphs, and tool execution—using only Python standard libraries and a few lightweight dependencies.
